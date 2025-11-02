@@ -24,12 +24,12 @@ WILL a little later add a button that will run a script to reset your UNDERTALE 
 
 Download the main.py file (and PixelOperator.tff if you haven't already installed this font, download it and install it on your system)
 
-Run main.py
+1. Run main.py
 
-Select your UNDERTALE save folder.
+2. Select your UNDERTALE save folder.
 
-Press Start Watching.
+3. Press Start Watching.
 
-The reset counter will automatically increment whenever a reset is detected.
+  The reset counter will automatically increment whenever a reset is detected.
 
-Use the ⚙️ icon to change folders or adjust window settings.
+  Use the ⚙️ icon to change folders or adjust window settings.
