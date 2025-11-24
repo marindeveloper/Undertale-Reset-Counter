@@ -10,7 +10,7 @@ Tracks the number of resets automatically.
 
 Displays resets in a Undertale-ish inspired interface.
 
-A button that will reset your UNDERTALE save, basically just delete the file0, file9, and undertale.ini files.
+A button that resets your UNDERTALE save, basically just deletes the file0, file9, file8, and undertale.ini files.
 
 # Requirements
 
