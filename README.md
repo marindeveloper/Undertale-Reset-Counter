@@ -22,7 +22,7 @@ A button that resets your UNDERTALE save, basically just deletes the file0, file
 
 # Usage
 
-Download the main.py file (and PixelOperator.tff if you haven't already installed this font, download it and install it on your system)
+Download the main.py file (and PixelOperator.tff if you haven't already installed this font, download it and install it on your system, either from this github repo or https://www.dafont.com/pixel-operator.font)
 
 1. Run main.py
 
