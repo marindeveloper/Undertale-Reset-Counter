@@ -21,6 +21,7 @@ DEFAULT_SETTINGS = {
 
 def load_settings():
     if not os.path.exists(SETTINGS_FILE):
+        save_settings(DEFAULT_SETTINGS)
         return DEFAULT_SETTINGS.copy()
     with open(SETTINGS_FILE, "r") as f:
         return json.load(f)
